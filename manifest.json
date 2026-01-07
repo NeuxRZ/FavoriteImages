@@ -2,6 +2,11 @@
   "name": "FavoriteImages",
   "description": "Guardar JPG/PNG y mostrarlos junto a los GIFs favoritos.",
   "version": "1.0.0",
-  "author": "Ciel",
-  "main": "index.js"
+  "authors": [
+    {
+      "name": "Ciel",
+      "id": "shiro_ciel"
+    }
+  ],
+  "main": "src/index.ts"
 }
